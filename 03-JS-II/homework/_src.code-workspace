@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\_src"
+		},
+		{
+			"path": "..\\..\\00-PrimerosPasos"
+		},
+		{
+			"path": "..\\..\\01a-Git"
+		},
+		{
+			"path": "..\\..\\01b-Git.-y-GitHub"
+		},
+		{
+			"path": "..\\..\\01c-Conceptos"
+		},
+		{
+			"path": "..\\..\\02-JS-I"
+		},
+		{
+			"path": ".."
+		}
+	]
+}

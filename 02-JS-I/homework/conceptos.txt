@@ -1,0 +1,8 @@
+ conceptos
+ 
+ 
+ * Variables  : lugar donde se guarda un valor
+ * Strings : lugar donde se guarda palabras
+ * Funciones (argumentos, `return`), un mini pograma con determinadas acciones, le puedes traspasar argumentos o valores necesarios para realizar la accion y retorna un resuktado
+ * Declaraciones `if`; frma de evaluar si se cumplen ciertas condiciones
+ * Valores booleanos (`true`, `false`) ; evaluan si algo es verdadero o  falso

@@ -1,0 +1,12 @@
+h1{ color:aqua;}
+img{ width: 400px;}
+#thirdDiv { height:500px ;
+              width: 600px;
+              background-color: blueviolet;
+              padding: 50px;
+              border-color: black;
+              border-style: dotted;
+    }
+#spanId { font-size: 16px;
+              margin: 50px;
+   }
