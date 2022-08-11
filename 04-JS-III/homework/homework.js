@@ -61,10 +61,11 @@ function dePalabrasAFrase(palabras) {
   // con espacios entre cada palabra
   // Ejemplo: ['Hello', 'world!'] -> 'Hello world!'
   // Tu código:
-//  var frase;
- // for(i=0;i<palabras.length;i++){
-   //    frase = frase + palabras[i]+' ';
- // }return frase;
+  // var frase='';
+  // for(i=0;i<palabras.length;i++){
+  //     frase = frase + palabras[i]+' ';
+  //     } 
+  //     return frase;
  return palabras.join(' ');
 }
 
@@ -136,7 +137,8 @@ return  resultado;
 
 
 function cuentoElementos(arreglo){
-  //Realiza una función que retorne la cantidad de los elementos del arreglo cuyo valor es mayor a 18.
+  //Realiza una función que retorne la cantidad de los elementos del arreglo
+  // cuyo valor es mayor a 18.
   //Escribe tu código aquí
 var x =0;
 for(i=0;i<arreglo.length;i++){
@@ -198,7 +200,7 @@ function mesesDelAño(array) {
        meses.push(array[i]);
   }
   if(meses.length==3)
-  return meses;
+       return meses;
   return "No se encontraron los meses pedidos";
 }
 
@@ -255,7 +257,8 @@ function continueStatement(numero) {
          if(i==5){
             continue;
          }
-         else{suma=suma+2;   num.push(suma);}
+         else{suma=suma+2;  
+              num.push(suma);}
     }
       return num;
   

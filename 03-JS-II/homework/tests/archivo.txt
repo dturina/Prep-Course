@@ -1,0 +1,5 @@
+* `for`
+en un ciclo que funciona entre los valores y cndiciones que uno le entrega
+* `&&`  y, tiene que cumplir todas las condiciones
+, `||` debe cumplir al menos una de las condiciones, o una o otra
+, `!` distinto, implica si la condicion es diferente por ejemplo perro != gato

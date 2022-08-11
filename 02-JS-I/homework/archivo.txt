@@ -1,0 +1,11 @@
+* Variables
+        el lugar donde se guardan Valores
+ * Strings
+        una cadena de valores almacendos 
+ * Funciones (argumentos, `return`)
+        un procedimiento ya definido, los argumentos son los valores que uno 
+        le entrega a la funcion, y esta te devuelve algo
+ * Declaraciones `if`
+        condiciones previas para realizar algo
+ * Valores booleanos (`true`, `false`)
+        determina si algo es verdadero o falso

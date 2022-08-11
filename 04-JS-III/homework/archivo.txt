@@ -1,0 +1,7 @@
+* Arrays
+es una cadena donde se almacenan datos como untren con sus vagones,
+ para identficar cada vagon se usa un numero de posicion, desde 0 en adelante, en cada vagon esta almacfenado el datos
+ ejemplo:
+ tren[0]= 'hola'
+ tren[1]= 5 
+ tren[2]= 'pepe', etc..
